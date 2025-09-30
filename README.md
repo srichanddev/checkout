@@ -1,5 +1,5 @@
 # Clone the Repository
-git clone <your-github-repo-url>
+git clone  " https://github.com/srichanddev/checkout.git "
 cd checkout
 
 
