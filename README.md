@@ -43,6 +43,8 @@ CartItem
     id (PK)
     productId (FK)
     quantity
+# postman collection 
+postman/postman_collection.json
 
 # API Endpoints
 
@@ -55,3 +57,5 @@ Cart APIs
     GET:/api/cart
     GET:/api/cart/summary
     DELETE:/api/cart/clear
+
+
